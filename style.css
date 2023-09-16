@@ -1,19 +1,22 @@
 html{
-    background-color: E3E4DB;
+    background-color: #F5F5DC;
+}
+
+.heading{
+    text-align: center;
+    color: #004225;
 }
 
 h1{
-    color: 3B252C ;
+    font-size: 40pt;
 }
 
-h2{
-    color: 8F6593 ;
+h3{
+    color:#FFB000;
+    font-size: 25pt;
 }
 
-li{
-    color: AEA4BF ;
-}
-
-a{
-    color: CDCDCD ;
+#BD{
+    height: 300px;
+    width: 300px;
 }
